@@ -14,3 +14,13 @@ In order to use this library, you shoud have your game impleted. Then just impor
 ```
    import boid
 ```
+
+# lab 3
+
+Simply import lab3.ipynb in Jupiter Notebook or in Google Colab Notebooks and perform all inputs one by one.
+
+Otherwise, the code can be run in python or conda shell:
+
+```
+   python lab3.py
+```
